@@ -1,6 +1,7 @@
 # Vnote-App-s
 Vnote this note app, for android ,by veix 
 # Warning 
+Aplication not have Google play Api,
 Requires disabling Play Protect in Google Play, otherwise the app won't work.
 ## OS Contabille
 Works well on Android 7/8/9/10/11/12/13/14/15/16.
